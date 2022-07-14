@@ -5,7 +5,7 @@ GUI requires MATLAB 2021b
 
 ## Cite the paper:
 
-Hien, Nguyen Ngoc, et al. “Image Noise Removal Method Based on Thresholding and Regularization Techniques.” IEEE Access, vol. 10, Institute of Electrical and Electronics Engineers (IEEE), 2022, pp. 71584–97, doi:10.1109/access.2022.3188315.
+Nguyen N. Hien, Dang N.H. Thanh, Ugur Erkan, Joao M.R.S. Tavares. “Image Noise Removal Method Based on Thresholding and Regularization Techniques.” IEEE Access, vol. 10, Institute of Electrical and Electronics Engineers (IEEE), 2022, pp. 71584–97, doi:10.1109/access.2022.3188315.
 
 ===========================================================
 
